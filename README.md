@@ -1,1 +1,1 @@
-![resume template](https://github.com/jvaverka/resume/blob/master/template.pdf)
+![resume template](https://github.com/jvaverka/resume/blob/master/template.png)
